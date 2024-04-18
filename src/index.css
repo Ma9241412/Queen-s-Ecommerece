@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.ant-layout-header{
+  padding: 0;
+}
+.ant-menu-item{
+  font-size: 20;
+  font-weight: 700;
+}
